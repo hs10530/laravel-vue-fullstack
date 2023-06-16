@@ -1,10 +1,5 @@
 # Todolist-backend Application
 
-[![pipeline status](https://gitlab.com/guillaumebriday/todolist-backend-laravel/badges/master/pipeline.svg)](https://gitlab.com/guillaumebriday/todolist-backend-laravel/pipelines)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/guillaumebriday)
-
-> Backend for https://github.com/guillaumebriday/todolist-frontend-vuejs app, built for a serie of articles on my [blog](https://guillaumebriday.fr/).
-
 The purpose of this repository is to provide API with [Laravel 5.8](http://laravel.com/) and connecting JavaScript front-end frameworks like [Vue.js 2](https://vuejs.org) or other clients to them.
 
 Beside Laravel, this project uses other tools like :
@@ -160,20 +155,4 @@ The documentation is available in the `docs` folder or on [https://todolist-docs
 
 You can consume the API with any client.
 
-Some examples of projects who use this API:
-+ [https://github.com/guillaumebriday/todolist-frontend-vuejs](https://github.com/guillaumebriday/todolist-frontend-vuejs) (Vue.js)
-+ [https://github.com/benoitrongeard/todolist-angular](https://github.com/benoitrongeard/todolist-angular) (Angular 6)
-
 Don't forget to let me know if you want to add your project to this list !
-
-## More details
-
-More details are available on my blog post : [https://guillaumebriday.fr/laravel-vuejs-faire-une-todo-list-partie-1-presentation-et-objectifs](https://guillaumebriday.fr/laravel-vuejs-faire-une-todo-list-partie-1-presentation-et-objectifs) (French).
-
-## Contributing
-
-Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
-
-## License
-
-This project is released under the [MIT](http://opensource.org/licenses/MIT) license.
